@@ -1,3 +1,10 @@
+
+Clone https://github.com/dilshad-ahmed/marketing-tcj with NextJS
+
+* NextJS 15.5.0
+* Tailwind CSS v4
+* Motion
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
